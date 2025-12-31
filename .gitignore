@@ -1,0 +1,7 @@
+Config/
+.gitignore
+Logs/
+map_sandbox/
+SaveGames/
+saves/
+steam_autocloud.vdf
